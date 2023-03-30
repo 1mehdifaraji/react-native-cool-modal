@@ -1,0 +1,31 @@
+{
+  "name": "react-native-cool-modal",
+  "version": "1.0.0",
+  "description": "React native modal component",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1mehdifaraji/react-native-cool-modal.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "android",
+    "ios",
+    "mobile",
+    "modal",
+    "customisable",
+    "react-native-modal",
+    "alert",
+    "react-native-alert"
+  ],
+  "author": "Mehdi Faraji <mahdifarajideveloper@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.29"
+  },
+  "bugs": {
+    "url": "https://github.com/1mehdifaraji/react-native-cool-modal/issues"
+  },
+  "homepage": "https://github.com/1mehdifaraji/react-native-cool-modal#readme"
+}
